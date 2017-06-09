@@ -8,6 +8,6 @@
      "name": "1.0.4",
     "title":"Do you want to update the latest version?",
     "content": "- Built-inapp purchase
- - fixed bugs"
+- fixed bugs"
   }
 }
