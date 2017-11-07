@@ -5,7 +5,7 @@
 	    "banerfull": "ca-app-pub-3290193335912644/4633142411"
   },
   "version": {
-     "name": "1.0.0",
+     "name": "1.0.1",
     "title":"Do you want to update the latest version?",
     "content": "- Custom Joystick"
   }
