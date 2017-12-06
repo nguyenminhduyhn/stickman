@@ -1,0 +1,16 @@
+{
+	  "fake": "0",
+	  "idadmod": {
+	      "baner":"ca-app-pub-3290193335912644/2095464973",
+	    "banerfull": "ca-app-pub-3290193335912644/2632729016"
+	  },
+	  "version": {
+	     "name": "1.0.0",
+	    "title":"Do you want to update the latest version?",
+	    "content": "- Fixed bugs",
+	    "linkUpdate":"https://itunes.apple.com/us/app/stickman-dismount-ragdoll/id1313719964?mt=8&ign-mpt=uo%3D2",
+	    "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980",
+	 "event": "1"
+	 
+	  }
+	}
